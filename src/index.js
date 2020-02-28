@@ -1,6 +1,11 @@
+/*
+ * @Author: xiaomin
+ * @Date: 2020-02-28 19:07:56
+ * @LastEditTime: 2020-02-28 19:38:43
+ */
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import './assets/stylesheet/app.scss';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
